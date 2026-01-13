@@ -10,5 +10,6 @@ public class Array_Day21 {
             count++;
         }
         System.out.println(count);
+        // Explanation: three occurrences of 3.
     }
 }
