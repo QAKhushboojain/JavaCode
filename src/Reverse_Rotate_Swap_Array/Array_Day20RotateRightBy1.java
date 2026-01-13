@@ -67,5 +67,6 @@ Final array becomes:
 
 [4, 1, 2, 3]
          */
+        // Explanation: last moved to front, others shift right
     }
 }
