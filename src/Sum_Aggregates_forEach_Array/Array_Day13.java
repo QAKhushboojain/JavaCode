@@ -8,5 +8,6 @@ public class Array_Day13
         for(int v : a)
         sum += v;
         System.out.println(sum);
+        // Explanation: sum 1+2+3+4+5 = 15.
     }
 }
