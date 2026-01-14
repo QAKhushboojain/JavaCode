@@ -1,6 +1,7 @@
 package Constructor;
 
 public class ClassQ extends ClassP{
+    //  explicit super(args)
     ClassQ()
     {
         super(9);
