@@ -1,6 +1,7 @@
 package Constructor;
 
 public class Constructor_Day1_A {
+    // Default constructor printed
     int x ; // instance variable
         public Constructor_Day1_A()
         {
