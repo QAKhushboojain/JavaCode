@@ -1,5 +1,5 @@
 package Constructor;
-
+// Constructor and static initialization timing
 public class Stat {
     static
     {
