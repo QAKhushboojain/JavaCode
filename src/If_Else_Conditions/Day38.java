@@ -1,0 +1,9 @@
+package If_Else_Conditions;
+
+public class Day38 {
+    public static void main(String[] args) {
+        int n = 6;
+        System.out.println((n % 2 == 0) ? "Even" : "Odd");
+
+    }
+}
