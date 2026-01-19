@@ -8,7 +8,7 @@ public class For_Loop_Day21 {
             {
                 if (i==j)
                     break;
-                    System.out.print(i  +  "" +  j+ "");
+                    System.out.print(i+""+j+ " ");
             }
             System.out.println();
         }
