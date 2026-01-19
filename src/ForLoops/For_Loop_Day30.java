@@ -7,6 +7,7 @@ public class For_Loop_Day30 {
         {
             a[i] = a[i+1];
             // Exception: ArrayIndexOutOfBoundsException at i=2
+            // Explanation: tries to access a[3] — off-by-one bug; good interview error to spot.
         }
     }
 }
