@@ -14,5 +14,6 @@ public class Test_Day_10 {
       //  a(null);
         // Compile-time error: reference to a is ambiguous
         // Explanation: null matches both; ambiguous.
+        // ambiguous overload (won’t compile)
     }
 }
