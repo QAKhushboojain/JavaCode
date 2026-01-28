@@ -1,5 +1,5 @@
 package Methods_Functions;
-
+// order of evaluation is left-to-right in Java for method args:
 public class Test_Day_17 {
     static int f(int x)
     {
