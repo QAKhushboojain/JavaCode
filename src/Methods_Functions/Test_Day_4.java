@@ -5,7 +5,6 @@ public class Test_Day_4 {
     {
      arr [0] = 99;
     }
-
     public static void main(String[] args) {
         int [] arr = {1,2};
         modify(arr);
