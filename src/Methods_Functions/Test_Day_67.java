@@ -11,5 +11,6 @@ public class Test_Day_67 {
         Integer i = 5;
         f(i);
         System.out.println(i);
+        // Explanation: boxing creates new Integer; original unchanged.
     }
 }
