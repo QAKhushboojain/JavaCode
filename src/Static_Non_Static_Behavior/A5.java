@@ -9,5 +9,6 @@ public class A5 {
         A5 a = new A5();
         System.out.println(a.i);
         // Explanation: static variable accessed by class; instance by object.
+        // Static variable vs instance variable access
     }
 }
