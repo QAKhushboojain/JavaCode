@@ -1,5 +1,5 @@
 package Static_Non_Static_Behavior;
-
+// Calling non-static (instance) method (correct)
 public class A1 {
     void n()
     {
