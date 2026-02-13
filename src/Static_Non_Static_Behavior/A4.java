@@ -11,5 +11,6 @@ public class A4 {
         a.n();
         // Exception in thread "main" java.lang.NullPointerException
         // Instance method called using null reference (NPE)
+        // Explanation: calling instance method on null causes NPE at runtime.
     }
 }
