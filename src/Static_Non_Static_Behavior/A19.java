@@ -7,7 +7,7 @@ public class A19 {
     }
     synchronized void i()
     {
-        System.out.println("instance sync");
+        System.out.println("instance Synchronized");
     }
 
     public static void main(String[] args) {
